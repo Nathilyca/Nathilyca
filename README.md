@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Meu nome é Nathaly, estou estudando no Teiceiro ano. e aprendendo programacao no Alura.
 <!--
 **Nathilyca/Nathilyca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
